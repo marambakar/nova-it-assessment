@@ -75,7 +75,7 @@ Object Detective is a Flutter-based mobile application that enables users to det
 1. **Clone the Repository**
 
    ```sh
-   git clone [<repository-url>](https://github.com/marambakar/nova-it-assessment.git)
+   git clone https://github.com/marambakar/nova-it-assessment.git
    cd nova_it_assessment
    ```
 
